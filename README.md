@@ -1,7 +1,10 @@
-# Exercise04a-StateMachines
+# Project04-Platformer
+
+# 4a Animation State
+Out of class exersize - March 2025
 
 ## Implementation
-Which features you included.
+Walking, Jumping, and idle added 
 
 ## References
 
@@ -12,4 +15,4 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Ashley H 
